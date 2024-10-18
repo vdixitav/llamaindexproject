@@ -1,0 +1,6 @@
+llama-index
+python-dotenv
+html2text
+llama-index-readers-web
+
+-e .
